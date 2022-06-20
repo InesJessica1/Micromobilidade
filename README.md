@@ -1,6 +1,6 @@
 Micromobilidade lisboa 
 
-                                          Contexto
+                                                                  Contexto
 
 Este conjunto de dados é referente ao estudo da micromobilidade desenvolvido no âmbito do
 projeto Urban Co-Creation Data Lab na Cidade de Lisboa. Os dados que foram analisados são
