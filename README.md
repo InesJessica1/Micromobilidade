@@ -39,10 +39,6 @@ Dicionário dos dados
 
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
-| `data` | Data a que se referem os dados | DD-MM-YYYY |
-| `doses` | Número total de doses de vacinas administradas em Portugal continental | Inteiro >= 0 ou _vazio_ |
-| `doses_novas` | Número diário de doses de vacinas administradas em Portugal continental | Inteiro >= 0 ou _vazio_ |
-| `doses1` | Número total de primeiras doses de vacinas administradas em Portugal continental. Nota: inclui unidoses | Inteiro >= 0 ou _vazio_ |
-| `doses1_novas` | Número diário de primeiras doses de vacinas administradas em Portugal continental. Nota: inclui unidoses | Inteiro >= 0 ou _vazio_ |
-| `doses2` | Número total de segundas doses de vacinas administradas em Portugal continental. Nota: exclui unidoses | Inteiro >= 0 ou _vazio_ |
-| `doses2_novas` | Número diário de segundas doses de vacinas administradas em Portugal continental. Nota: exclui unidoses | Inteiro >= 0 ou _vazio_ |
+| `date` | Data a que se referem os dados | DD-MM-YYYY |
+| `predicted_station` | Numero das estações previstas para entrega da bicicleta | Inteiro >= 0 ou _vazio_ ou decimal |
+| `station` | Numero da estação em que a bicicleta foi levantada. | Inteiro >= 0 ou _vazio_ |
