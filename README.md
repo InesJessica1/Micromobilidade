@@ -40,5 +40,5 @@ Dicionário dos dados
 | Nome da coluna        | Significado           | Possíveis valores  |
 | ------------- |:-------------:| -----:|
 | `date` | Data a que se referem os dados | DD-MM-YYYY |
-| `predicted_station` | Numero das estações previstas para entrega da bicicleta | Inteiro >= 0 ou _vazio_ ou decimal |
+| `predicted_station` | Tempo que a bicicleta foi utilizada | Inteiro >= 0 ou _vazio_ ou decimal |
 | `station` | Numero da estação em que a bicicleta foi levantada. | Inteiro >= 0 ou _vazio_ |
